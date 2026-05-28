@@ -4,6 +4,8 @@
 
 📱 **Live on App Store:** [Download GateF8](https://apps.apple.com/in/app/gatef8/id6760747063)
 
+📊 400+ active users
+
 ---
 
 ## What is GateF8?
